@@ -117,7 +117,7 @@ npx hardhat compile
 2. Run the smart contracts:
 
 ```sh
-npx hardhat run
+npx hardhat run scripts/run.js
 ```
 
 <!-- ROADMAP -->
